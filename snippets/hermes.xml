@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="yylssl"
+           fetch="https://github.com/yylssl" />
+
+  <project name="android_device_xiaomi_hermes" path="device/xiaomi/hermes" revision="lineage-16.0" remote="yylssl" />
+  <project name="android_kernel_xiaomi_hermes" path="kernel/xiaomi/hermes" revision="lineage-16.0" remote="yylssl" />
+  <project name="android_vendor_xiaomi_hermes" path="vendor/xiaomi/hermes" revision="lineage-16.0" remote="yylssl" />
+</manifest>
